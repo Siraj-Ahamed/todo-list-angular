@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Siraj Ahamed",
+      "lasttName": "",
+      "email": "ahamedsiraj770@gmail.com",
+      "dob": "1999-02-26T18:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 2,
+      "package": 6000000,
+      "id": 1
+    },
+    {
+      "firstName": "Siraj Ahamed",
+      "lasttName": "",
+      "email": "ahamedsiraj770@gmail.com",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lasttName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 3
+    }
+  ]
+}
